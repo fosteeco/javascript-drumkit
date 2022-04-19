@@ -10,4 +10,6 @@ My solution is quite different than the one provided in the course. I didn't bot
 
 The setAudioByKey was initially creating the audio object but I found that it would only play once with this method. Now it just returns the string.
 
+UPDATE: github doesn't work for hosting the sound files so setAudioByKey was updated to querySelect the audio tags
+
 https://javascript30.com/
